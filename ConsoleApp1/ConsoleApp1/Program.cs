@@ -9,8 +9,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // dalsi commit pred
-            Console.WriteLine("Hello World!");
+            // zmena stringu vo writeline
+            Console.WriteLine("Hello World new version!");
             Console.ReadKey();
             // novy commit
         }
