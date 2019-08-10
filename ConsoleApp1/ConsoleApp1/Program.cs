@@ -7,10 +7,15 @@ namespace ConsoleApp1
 {
     class Program
     {
+        static void WriteHelloWorld()
+        {
+            Console.WriteLine("Hello World!");
+        }
+
         static void Main(string[] args)
         {
-            // dalsi commit pred
-            Console.WriteLine("Hello World!");
+            // zavolanie metody write hello world
+            WriteHelloWorld();
             Console.ReadKey();
             // novy commit
         }
