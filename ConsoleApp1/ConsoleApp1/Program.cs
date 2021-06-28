@@ -12,6 +12,12 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
         }
 
+        static void WriteLineHelloWorld()
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine();
+        }
+
         static void Main(string[] args)
         {
             // zavolanie metody write hello world
