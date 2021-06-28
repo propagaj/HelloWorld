@@ -5,6 +5,7 @@ using System.Text;
 
 namespace ConsoleApp1
 {
+    // this program serves for writing lines
     class Program
     {
         static void WriteHelloWorld()
