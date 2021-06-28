@@ -24,6 +24,10 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
+            // show current user name
+            var userService = new UserService();
+            Console.WriteLine($"Hello {userService.GetCurrentUser()}");
+
             // zavolanie metody write hello world
             WriteHelloWorld();
             // zmena stringu vo writeline
