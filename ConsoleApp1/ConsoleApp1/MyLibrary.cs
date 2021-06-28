@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+    // comment
     class MyLibrary
     {
         static void WriteLine(string s)
