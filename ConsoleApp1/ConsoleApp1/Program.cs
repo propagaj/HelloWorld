@@ -8,6 +8,7 @@ namespace ConsoleApp1
     // this program serves for writing lines
     // adding new comment
     // adding third comment
+    // adding fourth line
     class Program
     {
         static void WriteHelloWorld()
